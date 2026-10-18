@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://bakla.tech"><img src="https://bakla.tech/assets/logo.png" alt="баклатех" width="420"></a>
+  <a href="https://bakla.tech"><img src="logo.png" alt="баклатех" width="420"></a>
 </p>
 
 <h3 align="center">приближая будущее, которое никто не просил, с минимальными усилиями</h3>
